@@ -10,3 +10,6 @@ There is a document named setting up your IDE with four videos to help.
 You can resuse the authetication token you already created --->you don't need to create a new one each time
 
 THE END ----> Congratulations
+
+
+Warren Elder. I just combined AWS Cloud9 and Github to create a full IDE solution.
